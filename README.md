@@ -7,7 +7,11 @@ Motivation:
 We selected this dataset because obesity is a growing global health problem that causes both physical and mental challenges. By analyzing lifestyle habits, our study can provide useful insights for prevention and awareness, which may support healthier choices and reduce obesity-related risks.
 
 Students` names:
+
 Layan ALshamsan
+
 Hatun Alothman
+
 Noura Alotaibi
+
 Leenh Almarzooq
