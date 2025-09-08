@@ -1,6 +1,11 @@
-# IT326-Obesity
 Project Description:
-Our project aims to classify individuals into 7 obesity levels 🧍🍔 using lifestyle factors such as eating habits 🥗, physical activity 🏃‍♀️, water intake 💧, and smoking 🚬. We also apply clustering 🔎 to discover hidden patterns in daily behaviors.
+Our project aims to classify individuals into seven obesity levels using lifestyle factors such as eating habits, physical activity, water intake, and smoking. In addition, we apply clustering techniques to discover hidden patterns in daily behaviors that may contribute to obesity.
 
 Motivation:
-We chose this dataset because obesity is a major global health prevention, and analyzing these habits can provide useful insights 💡 for awareness and prevention.
+We selected this dataset because obesity is a growing global health problem that causes both physical and mental challenges. By analyzing lifestyle habits, our study can provide useful insights for prevention and awareness, which may support healthier choices and reduce obesity-related risks.
+
+Students` names:
+Layan ALshamsan
+Hatun Alothman
+Noura Alotaibi
+Leenh Almarzooq
