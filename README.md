@@ -1,4 +1,4 @@
-Obesity levels prediction
+Obesity levels 
 
 Project Description:
 
