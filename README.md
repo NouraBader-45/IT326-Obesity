@@ -1,3 +1,5 @@
+Obesity levels prediction
+
 Project Description:
 
 Our project aims to classify individuals into seven obesity levels using lifestyle factors such as eating habits, physical activity, water intake, and smoking. In addition, we apply clustering techniques to discover hidden patterns in daily behaviors that may contribute to obesity.
